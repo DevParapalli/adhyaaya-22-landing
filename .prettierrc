@@ -1,0 +1,11 @@
+{
+    "useTabs": false,
+    "tabWidth": 4,
+    "singleQuote": true,
+    "trailingComma": "all",
+    "printWidth": 180,
+    "htmlWhitespaceSensitivity": "ignore",
+    "endOfLine": "crlf",
+    "svelteStrictMode": true,
+    "tailwindConfig": "./tailwind.config.cjs"
+}
